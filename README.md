@@ -18,13 +18,13 @@ Backend and full stack developer, currently pursuing MTech at IIT Jodhpur and bu
 
 # 📊 GitHub Stats:
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ritchi-e&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ritchi-e&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 <br/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=ritchi-e&theme=dark&hide_border=true" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=ritchi-e&theme=dark&hide_border=true" alt="GitHub Streak" />
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritchi-e&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritchi-e&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</div>
 
 
 ### ✍️ Random Dev Quote
