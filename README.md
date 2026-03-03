@@ -13,19 +13,6 @@ Backend and full stack developer, currently pursuing MTech at IIT Jodhpur and bu
 <img src="assets/space-shooter.gif" />
 </p>
 
-
-
-
-# 📊 GitHub Stats:
-
-<div align="center">
-<a href="https://github.com/ritchi-e">
-<img src="https://github-readme-stats.vercel.app/api?username=ritchi-e&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="170" />
-<img src="https://nirzak-streak-stats.vercel.app/?user=ritchi-e&theme=dark&hide_border=true" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritchi-e&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="170" />
-</a>
-</div>
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
