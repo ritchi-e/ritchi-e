@@ -13,7 +13,7 @@ Backend and full stack developer, currently pursuing MTech at IIT Jodhpur and bu
 <img src="assets/space-shooter.gif" />
 </p>
 
-### ✍️ Random Dev Quote
+### Quote of the day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
