@@ -1,5 +1,5 @@
 # 💫 About Me:
-Backend and full stack developer, currently pursuing MTech at IIT Jodhpur and building projects with Django, Flutter and cloud platforms.
+Backend and full stack developer, PhD Candidate at IIT Jodhpur and building projects with Django, Flutter and cloud platforms.
 
 
 ## 🌐 Socials:
