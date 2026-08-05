@@ -23,9 +23,9 @@ I design and build production-ready software. My focus is on end-to-end product 
 
 <div align="center">
 
-|  Experience |  Projects |  Research |  Patents |
-| :---: | :---: | :---: | :---: |
-| **1+ Years** | **10+ Production Apps** | **1 AIED Paper** | **1 Patent Filed** |
+|    Projects |  Research |  Patents |
+|  :---: | :---: | :---: |
+|  **10+ Production Apps** | **1 AIED Paper** | **1 Patent Filed** |
 
 </div>
 
