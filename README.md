@@ -1,22 +1,82 @@
-# 💫 About Me:
-Backend and full stack developer, PhD Candidate at IIT Jodhpur and building projects with Django, Flutter and cloud platforms.
+# Hi, I'm Richard 👋
+### AI Product Engineer | M.Tech Computer Science @ IIT Jodhpur
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/richiewannaberich) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/richard-david-786201172) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:richijn9@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-# ■ My GitHub Activity Game
-<p align="center">
-<img src="assets/space-shooter.gif" />
-</p>
-
-### Quote of the day
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+I design and build production-ready software powered by AI. My focus is on end-to-end product development—combining robust backend systems, modern web architectures, data engineering, and Large Language Models (LLMs) to solve complex, real-world problems.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ritchi-e&icon=0&color=7)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💡 Impact at a Glance
+
+- **1+ Years** of end-to-end software product development
+- **10+** Applications engineered across EdTech & Healthcare
+- **1** Peer-Reviewed International Publication (**AIED**)
+- **1** Patent (**Automated Medication Dispenser System**)
+- **Focus:** Scalable AI Systems, Backend Infrastructure, Production LLM Architectures
+
+---
+
+## 📌 Currently
+
+- 🚀 Building AI-powered educational tools tailored for personalized learning
+- 📚 Pursuing M.Tech in Computer Science at **IIT Jodhpur**
+- 🛠️ Deepening expertise in AWS, CI/CD pipelines, and LLM orchestration (RAG)
+- 🌍 Exploring international Software / AI Engineering opportunities
+
+---
+
+## 🔬 Research & Innovations
+
+### 📄 Peer-Reviewed Publication
+- **Multi-Agent AI for Educational Help-Seeking**  
+  *Published in AIED (Artificial Intelligence in Education)*  
+  Explores multi-agent LLM systems designed to optimize help-seeking behaviors and dynamic feedback in digital learning environments.
+
+### 📜 Patent
+- **Automated Medication Dispenser System**  
+  *Patent Filed / Issued*  
+  Designed an IoT-enabled medical device and integrated backend software for scheduled, automated drug dispensing and remote monitoring.
+
+---
+
+## 🚀 Featured Projects
+
+### 🏥 Healthcare Platform
+> **Tech:** Python, Django, PostgreSQL, Docker, React  
+A comprehensive healthcare system built to manage patient workflows, medical histories, and real-time tele-consultations securely and at scale.  
+📁 `[Repo Link]` | 🔗 `[Live Demo]`
+
+### 🎓 AI Examination & Evaluation Platform
+> **Tech:** Python, FastAPI, OpenAI API, LangChain, Next.js  
+An automated evaluation system leveraging LLMs to evaluate subjective open-ended student responses with actionable rubric-driven feedback.  
+📁 `[Repo Link]` | 🔗 `[Live Demo]`
+
+### 🤖 Production RAG Chatbot
+> **Tech:** Python, Vector DB (Qdrant/Pinecone), LangChain, FastAPI, React  
+An enterprise-grade Retrieval-Augmented Generation agent capable of searching dynamic internal knowledge bases with strict hallucination guardrails.  
+📁 `[Repo Link]` | 🔗 `[Live Demo]`
+
+### ✈️ Flight Data Analytics Pipeline
+> **Tech:** Python, Pandas, SQLite, Docker, Data Visualization  
+An end-to-end data processing pipeline for aggregating, cleaning, and visualizing real-time flight metrics to identify operational bottlenecks.  
+📁 `[Repo Link]` | 🔗 `[Live Demo]`
+
+---
+
+## 💻 Tech Stack:
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+---
+
+## ■ My GitHub Activity Game
+<p align="center">
+  <img src="assets/space-shooter.gif" alt="GitHub Activity Game" width="100%" />
+</p>
+
+---
+
+## 📬 Connect With Me
+
+- 🌐 **Portfolio:** [yourportfolio.com](https://yourportfolio.com)
+- 💼 **LinkedIn:** [linkedin.com/in/richard-david-786201172](https://linkedin.com/in/richard-david-786201172)
+- ✉️ **Email:** [richijn9@gmail.com](mailto:richijn9@gmail.com)
