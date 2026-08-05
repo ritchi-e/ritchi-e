@@ -43,7 +43,7 @@ I design and build production-ready software powered by AI. My focus is on end-t
 ###  Healthcare Platform
 > **Tech:** Python, Django, PostgreSQL, Docker, React  
 A comprehensive healthcare system built to manage patient workflows, medical histories, and real-time tele-consultations securely and at scale.  
- ([Link]((https://github.com/ritchi-e/neo-progress-tracker))
+ ([Link]((https://github.com/ritchi-e/neo-progress-tracker)))
 > 
 ###  AI Examination & Evaluation Platform
 > **Tech:** Python, FastAPI, OpenAI API, LangChain, Next.js  
