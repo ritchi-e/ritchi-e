@@ -43,7 +43,7 @@ I design and build production-ready software powered by AI. My focus is on end-t
 ###  Healthcare Platform
 > **Tech:** Python, Django, PostgreSQL, Docker, React  
 A comprehensive healthcare system built to manage patient workflows, medical histories, and real-time tele-consultations securely and at scale.  
- `[[https://github.com/ritchi-e/neo-progress-tracker]]`
+ `[(https://github.com/ritchi-e/neo-progress-tracker)]`
 
 ###  AI Examination & Evaluation Platform
 > **Tech:** Python, FastAPI, OpenAI API, LangChain, Next.js  
@@ -77,6 +77,6 @@ An end-to-end data processing pipeline for aggregating, cleaning, and visualizin
 
 ## Connect With Me
 
--  **Portfolio:** ([https://yourportfolio.com](https://richierich-portfolio.vercel.app/))
+-  **Portfolio:** ([https://myportfolio.com](https://richierich-portfolio.vercel.app/))
 -  **LinkedIn:** [linkedin.com/in/richard-david-786201172](https://linkedin.com/in/richard-david-786201172)
 -  **Email:** [richijn9@gmail.com](mailto:richijn9@gmail.com)
