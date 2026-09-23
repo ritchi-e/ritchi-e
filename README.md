@@ -1,7 +1,7 @@
 <div align="center">
 
 # ⚡ Hi, I'm Richard
-### **AI Product Engineer | PhD Scholar @ IIT Jodhpur**
+### **AI Product Engineer**
 
 ![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Building+Production-Ready+AI+Software;LLM+Orchestration+%26+Backend+Systems;EdTech+%26+Healthcare+Innovations)
 
